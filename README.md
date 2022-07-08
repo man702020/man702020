@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @man702020
 - 👀 I’m interested in C++ and python coding
-- 🌱 I’m currently learning C++ and python
-- 💞️ I’m looking to collaborate on optimization using pything
+- 🌱 I’m currently working on NX API C++ coding projects and also am involve in C# as well as Fusion 360 API Python code work.
+- 💞️ I’m looking to collaborate and work on topology optimization project. 
 - 📫 How to reach me: Message me here
 
 <!---
